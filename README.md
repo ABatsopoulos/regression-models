@@ -1,5 +1,5 @@
 # regression-models
-Evaluate different regression models on a non-linear dataset
+Evaluate different regression models on a non-linear dataset <br>
 Evaluate different regression models on a non-linear dataset (sinusoidal function with noise). <br>
 The models used are Linear Regression, Polynomial Regression (degree 50), and Regularized Regression (Ridge), analyzing their performance through learning curves and cross-validation. <br>
 <br>
